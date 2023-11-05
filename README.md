@@ -1,3 +1,5 @@
+![logo](./LinkedIn Background Photo.png)
+
 ### :technologist: About Me :
 
 ### :hammer_and_wrench: Languages and Tools :
